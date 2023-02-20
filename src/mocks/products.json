@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": 7631,
+            "sku": "HEH-9133",
+            "name": "On Cloud Nine Pillow",
+            "price": 24.99
+        },
+        {
+            "id": 7615,
+            "sku": "HEH-2245",
+            "name": "My Cup of Tea Sweater",
+            "price": 42
+        },
+        {
+            "id": 8100,
+            "sku": "WKS-6016",
+            "name": "Walk On Out Slip On Sneakers",
+            "price": 58
+        },
+        {
+            "id": 6489,
+            "sku": "DKO-PROF",
+            "name": "Knock Your Socks Off Lace-Up Heels",
+            "price": 38
+        }
+    ]
+}
